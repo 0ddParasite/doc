@@ -37,6 +37,7 @@ Below, you can find a list of providers compatible for self-hosting and especial
 !!! * [Trust zone](https://trust.zone/fr/order?p=25)
 !!! * [PureVPN](https://www.purevpn.fr/ip-vpn-dedie)
 !!! * [RapidVPN](https://www.rapidvpn.com/vpn)
+!!! * [ProtonVPN](https://protonvpn.com/)
 [/ui-tab]
 [ui-tab title="French speaking-site"]
 
